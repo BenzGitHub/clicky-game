@@ -1,0 +1,94 @@
+[
+    {
+        "id": 1,
+        "name": "Aloy",
+        "image": "../public/images/aloy.png",
+        "count": 0
+    },
+
+    {
+        "id": 2,
+        "name": "Laura-Croft",
+        "image": "../public/images/laura-croft.png",
+        "count": 0
+    },
+
+    {
+        "id": 3,
+        "name": "Luigi",
+        "image": "../public/images/lugi.png",
+        "count": 0
+    },
+
+    {
+        "id": 4,
+        "name": "Mario",
+        "image": "../public/images/mario.png",
+        "count": 0
+     },
+
+     {
+        "id": 5,
+        "name": "Master-Chief",
+        "image": "../public/images/master-chief.jpeg",
+        "count": 0
+     },
+
+     {
+        "id": 6,
+        "name": "Nathan-Drake",
+        "image": "../public/images/nathan-drake.jpeg",
+        "count": 0
+     },
+
+     {
+        "id": 7,
+        "name": "Pac-Man",
+        "image": "../public/images/pacman.png",
+        "count": 0
+     },
+
+     {
+        "id": 8,
+        "name": "Pikachu",
+        "image": "../public/images/pokemon.png",
+        "count": 0
+     },
+
+     {
+        "id": 9,
+        "name": "Ralph",
+        "image": "../public/images/ralph.png",
+        "count": 0
+     },
+
+     {
+        "id": 10,
+        "name": "Sam-Fisher",
+        "image": "../public/images/sam-fisher.jpg",
+        "count": 0
+     },
+
+     {
+        "id": 11,
+        "name": "Sonic",
+        "image": "../public/images/sam-fisher.jpg",
+        "count": 0
+     },
+
+     {
+        "id": 12,
+        "name": "Vault-Boy",
+        "image": "../public/vault-boy.jpg",
+        "count": 0
+     },
+
+
+
+
+
+
+
+    
+    
+]
